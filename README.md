@@ -40,6 +40,9 @@ Languages and Tools:
 My Stats:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=italodeverdade&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/italodeverdade)
+
+My Top Languages:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italodeverdade&layout=compact&theme=dark&hide_border=true)](https://github.com/italodeverdade)
 
 
